@@ -147,3 +147,5 @@
 ---
 
 *lightroom-install-tutorial · 更新于 2026-10-23 · 基于 MIT 许可证共享*
+
+<!-- updated 2026-10-23 -->
